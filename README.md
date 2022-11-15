@@ -25,7 +25,7 @@
 * 小程序「盗梦师」
 
     ### Mac端
-* https://diffusionbee.com/
+* DiffusionBee https://diffusionbee.com/
 
 ## AI辅助工具
 * 人脸修复 https://github.com/TencentARC/GFPGAN
@@ -34,12 +34,14 @@
 ## AI绘画作品平台
 * https://lexica.art/
 * https://openart.ai/
+* https://arthub.ai/
 * https://www.krea.ai/
 * https://prompthero.com/
 * https://promptbase.com/
 
 ## AI绘画提示词指南
 * https://promptomania.com/
+* NovelAI https://docs.qq.com/doc/DWHl3am5Zb05QbGVs
 
 ## AI算力平台
 * Google https://drive.google.com/
@@ -64,5 +66,6 @@
 * Phenaki https://phenaki.video/
 
 ## 扩展阅读：
+* https://mp.weixin.qq.com/s/Q4ZYjUxt22Jsx2W2179C8Q
 * https://www.justinpinkney.com/
 * https://petapixel.com/2022/10/14/photographer-creates-ai-girlfriend-to-stave-off-nosy-relatives/
