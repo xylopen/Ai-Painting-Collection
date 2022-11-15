@@ -41,6 +41,7 @@
 
 ## AI绘画提示词指南
 * https://promptomania.com/
+* https://openart.ai/promptbook
 * NovelAI https://docs.qq.com/doc/DWHl3am5Zb05QbGVs
 
 ## AI算力平台
