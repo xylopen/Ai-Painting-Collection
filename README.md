@@ -45,6 +45,7 @@
 * Google https://drive.google.com/
 * Kaggle https://www.kaggle.com/
 * 飞桨 https://aistudio.baidu.com/
+* AutoDL https://www.autodl.com/
 
 ## AI训练模型：
 * 精灵宝可梦 https://replicate.com/lambdal/text-to-pokemon
@@ -62,6 +63,6 @@
 * Make-A-Video https://makeavideo.studio/
 * Phenaki https://phenaki.video/
 
-## 阅读：
+## 扩展阅读：
 * https://www.justinpinkney.com/
-* 印度小哥 https://petapixel.com/2022/10/14/photographer-creates-ai-girlfriend-to-stave-off-nosy-relatives/
+* https://petapixel.com/2022/10/14/photographer-creates-ai-girlfriend-to-stave-off-nosy-relatives/
