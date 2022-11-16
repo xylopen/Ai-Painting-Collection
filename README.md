@@ -50,13 +50,11 @@
 * 飞桨 https://aistudio.baidu.com/
 * AutoDL https://www.autodl.com/
 
-## AI训练模型：
+## Stable Diffusion 训练模型
+* 标准模型 https://huggingface.co/runwayml/stable-diffusion-v1-5
 * 精灵宝可梦 https://replicate.com/lambdal/text-to-pokemon
 * 火影忍者 https://huggingface.co/spaces/lambdalabs/text-to-naruto
-
-## AI绘画灵感：
-* https://openart.ai/
-* https://lexica.art/
+* 集合 https://huggingface.co/spaces/anzorq/finetuned_diffusion
 
 ## 艺术家列表：
 * https://aesthetics.fandom.com/wiki/List_of_Aesthetics
