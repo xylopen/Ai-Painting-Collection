@@ -52,9 +52,14 @@
 
 ## Stable Diffusion 训练模型
 * 标准模型 https://huggingface.co/runwayml/stable-diffusion-v1-5
+* Waifu https://huggingface.co/hakurei/waifu-diffusion
 * 精灵宝可梦 https://replicate.com/lambdal/text-to-pokemon
 * 火影忍者 https://huggingface.co/spaces/lambdalabs/text-to-naruto
 * 集合 https://huggingface.co/spaces/anzorq/finetuned_diffusion
+* https://huggingface.co/nitrosocke
+* https://huggingface.co/prompthero
+* https://huggingface.co/dallinmackay
+* https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion
 
 ## 艺术家列表：
 * https://aesthetics.fandom.com/wiki/List_of_Aesthetics
