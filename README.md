@@ -42,6 +42,7 @@
 ## AI绘画提示词指南
 * https://promptomania.com/
 * https://openart.ai/promptbook
+* https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion
 * NovelAI https://docs.qq.com/doc/DWHl3am5Zb05QbGVs
 
 ## AI算力平台
